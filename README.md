@@ -1,4 +1,4 @@
-# Automação de Testes com CypressJS - QAZANDO Bootcamp - Aula 1
+# Automação de Testes com CypressJS - QAZANDO Bootcamp - Aula 2
 
 Este repositório contém o código-fonte da primeira aula do bootcamp de automação de testes usando CypressJS da QAZANDO.
 
